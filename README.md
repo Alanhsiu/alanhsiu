@@ -29,13 +29,13 @@ Here are some ideas to get you started:
 
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanhsiu&exclude_repo=Tower-Defense&hide=prolog,html,qml,matlab,css,makefile,gnuplot&theme=tokyonight&layout=compact"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanhsiu&exclude_repo=Tower-Defense&layout=compact&hide=prolog,html,qml,matlab,css,makefile,gnuplot&theme=tokyonight"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanhsiu&exclude_repo=Tower-Defense&hide=prolog,html,qml,matlab,css,makefile,gnuplot&layout=compact"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanhsiu&exclude_repo=Tower-Defense&layout=compact&hide=prolog,html,qml,matlab,css,makefile,gnuplot"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img alt="alanhsiu's most used languages" style="height: 150px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanhsiu&exclude_repo=Tower-Defense&hide=prolog,html,qml,matlab,css,makefile,gnuplot&theme=tokyonight&layout=compact" />
+    <img alt="alanhsiu's most used languages" style="height: 150px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanhsiu&exclude_repo=Tower-Defense&layout=compact&hide=prolog,html,qml,matlab,css,makefile,gnuplot&theme=tokyonight" />
   </picture>
 </div>

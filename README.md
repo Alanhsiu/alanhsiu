@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
 
 <!--
 **Alanhsiu/alanhsiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,29 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<picture>
-  <source
-    srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=alanhsiu&show_icons=true&theme=tokyonight"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=alanhsiu&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img alt="alanhsiu's GitHub stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alanhsiu&show_icons=true&theme=tokyonight" />
-</picture>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <picture>
+    <source
+      srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=alanhsiu&show_icons=true&theme=tokyonight&count_private=true&hide=stars&layout=compact"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=alanhsiu&show_icons=true&count_private=true&hide=stars"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img alt="alanhsiu's GitHub stats" style="height: 150px;" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alanhsiu&show_icons=true&theme=tokyonight&count_private=true&hide=stars" />
+  </picture>
 
-<br />
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alanhsiu&exclude_repo=Tower-Defense&hide=verilog,html,qml,matlab,css,makefile&theme=tokyonight"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alanhsiu&exclude_repo=Tower-Defense&hide=verilog,html,qml,matlab,css,makefile"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-<img alt="alanhsiu's most used languages"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanhsiu&exclude_repo=Tower-Defense&hide=verilog,html,qml,matlab,css,makefile&theme=tokyonight" />
-</picture>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanhsiu&exclude_repo=Tower-Defense&hide=prolog,html,qml,matlab,css,makefile&theme=tokyonight&layout=compact"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanhsiu&exclude_repo=Tower-Defense&hide=prolog,html,qml,matlab,css,makefile"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img alt="alanhsiu's most used languages" style="height: 150px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanhsiu&exclude_repo=Tower-Defense&hide=prolog,html,qml,matlab,css,makefile&theme=tokyonight" />
+  </picture>
+</div>
